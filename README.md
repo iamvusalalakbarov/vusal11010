@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @vusal11010.
+- 👋 Hi, @iamvusalalakbarov.
 - 👀 I’m interested in React development.
-- 📫 You can reach me via email (vusal11010@gmail.com) or LinkedIn (linkedin.com/in/vusal11010).
+- 👩🏻‍💻 I’m learning Next.js nowadays.
+- 🎓 I graduated from CSE department of Akdeniz University.
+- 📫 You can reach me via email (iamvusalalakbarov@gmail.com) or LinkedIn (linkedin.com/in/iamvusalalakbarov).
